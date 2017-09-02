@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working late on a Friday
+title: Working late on a Friday (Post migrated from Ghost blog)
 ---
 
 So last night I found myself at work until about 8.30pm, and it was Friday. Unheard of!
