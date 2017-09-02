@@ -41,6 +41,7 @@ There is a workaround, and it is this:
 
 1 - Create a new 64 bit data source (System DSN) on the 2012 server that needs to connect to the 2000 server. 
 
+![an image alt text]({{ site.baseurl }}/images/odbc.jpg "lies")
 
 2 - Tell the server that the data source is another server and create a MSDASQL connection using T-SQL:
 
