@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Powershell... SQLPS
+title: More Powershell... SQLPS (Post migrated from Ghost blog)
 ---
 
 Today I discovered how to execute a SQL script from Powershell... will be useful for me tomorrow, as I'll need to run a few complicated SQL scripts in quick succession as part of a demonstration.
