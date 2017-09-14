@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Programming jobs by language (Post migrated from Ghost blog)
 ---
 
