@@ -5,6 +5,7 @@
 
 # Name of your site (displayed in the header)
 name: DevRonSoft
+theme: jekyll-theme-minimal
 
 # Short bio or description (displayed in the header)
 description: Full stack developer. Learning and exploring constantly.
